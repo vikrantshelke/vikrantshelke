@@ -2,9 +2,9 @@
 
 - 🧑‍💼 Graduating in May 2024
 
-- 🌱 I’m currently learning AWS and Databricks
+- 🌱 I’m a passionate Data Engineer
 
-- 👀 I’m interested in Data Engineering
+- 👀 I’m currently learning AWS and Databricks
 
 - 📫 How to reach me vikrant.shelke95@gmail.com
 
